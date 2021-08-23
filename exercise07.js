@@ -14,9 +14,6 @@ const movies = [
     { title: 'd', year: 2017, rating: 4.5 },
 ];
 
-
-
-
 function filterMovies(array) {
 
     return movies.
